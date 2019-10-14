@@ -20,7 +20,7 @@ Before you make your first contribution, you should familiarize yourself with [H
 
 The following resources share repositories that curate tasks for beginners:
 
-* [Up For Grabs(https://up-for-grabs.net/#/)]
+* [Up For Grabs](https://up-for-grabs.net/#/)
 
 * [Issuehub.io](http://issuehub.io/)
 
