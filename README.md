@@ -84,3 +84,28 @@ Here is what you'll be adding-
 * Just create an markdown file with your name and write about yourself. Example. JohnDoe.md
 
 * Put the file in the root directory (where README.md is present)
+
+## Steps involved in contribution process-
+
+1. Fork this repository
+
+2. Either make changes online or download on your computer -> make change -> commit -> Push
+
+3. You'll se your version of this repository has some commits which are ahead of origional repository
+
+4. You'll see an option to make a pull request. Click it-> add some description -> send PR
+
+5. Repeat this prosess 4-5 times by adding more changes and more informations in your file. Easy!!
+
+## Need Help?
+
+You can look up things online, learn about them on youtube etc. I also wrote some blog posts on how to conribute to opensource projects around a year back. You can have a look at it and learn the process in detail-
+
+In the following post I have given instruction on how to contribute to udacity collaborative project but the process will be same on this prject also. 
+
+  * [How to contribute to the Udacity collaborative Projects on GitHub](https://medium.com/@shubham.prakash/here-is-how-to-contribute-to-the-udacity-collaborative-projects-on-github-616aee567a6a)
+
+  
+  * [This is how to create a “Pull request (PR)” to contribute to the collaborative project](https://medium.com/@shubham.prakash/this-is-how-to-create-pull-request-pr-to-contribute-to-the-collaborative-project-f43b1a6fe614)
+
+  * [Here is how to work on branches in git](https://medium.com/@shubham.prakash/here-is-how-to-work-on-branches-in-git-1aa68c9565c)
