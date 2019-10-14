@@ -91,7 +91,7 @@ Here is what you'll be adding-
 
 ## Steps involved in contribution process-
 
-1. Fork this repository
+1. Star and Fork this repository
 
 2. Either make changes online or download on your computer -> make change -> commit -> Push
 
