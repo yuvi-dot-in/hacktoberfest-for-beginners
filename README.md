@@ -1,6 +1,10 @@
 # hacktoberfest-for-beginners
 A repo for the beginners to get started with the open source contribution and participate in Hacktoberfest.
 
+![1_2UpaL6XstQWiJpW27T4NBQ](https://user-images.githubusercontent.com/28767301/66743986-db1c1080-ee98-11e9-92aa-88787c822bdb.png)
+
+[Click to Jump directly on how to contribute to this project](# How to contribute to this project)
+
 
 # What is hactoberfest
 
