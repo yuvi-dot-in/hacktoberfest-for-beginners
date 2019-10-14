@@ -11,7 +11,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
  * Pull requests can be made in any GitHub-hosted repositories/projects.
  * Sign up anytime between October 1 and October 31.
 
-# How can a beginner participate?
+## How can a beginner participate?
 
 If you’re new to open source (everyone was once!), take a look at our
 
@@ -40,7 +40,7 @@ Once you start feeling more comfortable, you can find more open source projects 
 
 * [This is another great guide](https://opensource.guide/how-to-contribute/) outlining ways you can contribute to open source.
 
-# Event details
+## Event details
 
 * Hacktoberfest is open to everyone in our global community!
 
@@ -48,11 +48,11 @@ Once you start feeling more comfortable, you can find more open source projects 
 
 * You can sign up anytime between October 1 and October 31.
 
-# Participation rules
+## Participation rules
 
 To qualify for the official limited edition Hacktoberfest shirt, you must register and then make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as invalid or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 50,000 participants who successfully complete the challenge will earn a T-shirt. (Last year 46,088 earned a shirt!)
 
-# Quality standards
+## Quality standards
 
 In line with Hacktoberfest value #2 (Quantity is fun, quality is key), here are examples of the PRs that we consider to be low-quality contributions (which we discourage).
 
@@ -66,7 +66,7 @@ In line with Hacktoberfest value #2 (Quantity is fun, quality is key), here are 
 
 * Last but not least, one PR to fix a typo is fine. 5 PRs to remove a stray whitespace... not.
 
-# Values
+## Values
 
 Inspired by you – the community – through your actions and stories.
 
@@ -75,3 +75,12 @@ Inspired by you – the community – through your actions and stories.
 * Quantity is fun, quality is key! Participating in Hacktoberfest leads to personal growth, professional opportunities, and community building. And it all begins with meaningful contributions to open source technology.
 
 * Short-term actions, long-term impact! In the open source community, we stand on the shoulders of those who came before us. Your participation has a lasting effec
+
+# How to contribute to this project
+
+Since you just have make 4 PRs (Pull requests) you can contribute to this project and make PRs. 
+Here is what you'll be adding-
+
+* Just create an markdown file with your name and write about yourself. Example. JohnDoe.md
+
+* Put the file in the root directory (where README.md is present)
