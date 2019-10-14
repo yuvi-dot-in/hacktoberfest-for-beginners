@@ -84,3 +84,16 @@ Here is what you'll be adding-
 * Just create an markdown file with your name and write about yourself. Example. JohnDoe.md
 
 * Put the file in the root directory (where README.md is present)
+
+## Steps involved in contribution process-
+
+1. Fork this repository
+
+2. Either make changes online or download on your computer -> make change -> commit -> Push
+
+3. You'll se your version of this repository has some commits which are ahead of origional repository
+
+4. You'll see an option to make a pull request. Click it-> add some description -> send PR
+
+5. Repeat this prosess 4-5 times by adding more changes and more informations in your file. Easy!!
+
