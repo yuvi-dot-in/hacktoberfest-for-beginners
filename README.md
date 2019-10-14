@@ -97,3 +97,15 @@ Here is what you'll be adding-
 
 5. Repeat this prosess 4-5 times by adding more changes and more informations in your file. Easy!!
 
+## Need Help?
+
+You can look up things online, learn about them on youtube etc. I also wrote some blog posts on how to conribute to opensource projects around a year back. You can have a look at it and learn the process in detail-
+
+In the following post I have given instruction on how to contribute to udacity collaborative project but the process will be same on this prject also. 
+
+  * [How to contribute to the Udacity collaborative Projects on GitHub](https://medium.com/@shubham.prakash/here-is-how-to-contribute-to-the-udacity-collaborative-projects-on-github-616aee567a6a)
+
+  
+  * [This is how to create a “Pull request (PR)” to contribute to the collaborative project](https://medium.com/@shubham.prakash/this-is-how-to-create-pull-request-pr-to-contribute-to-the-collaborative-project-f43b1a6fe614)
+
+  * [Here is how to work on branches in git](https://medium.com/@shubham.prakash/here-is-how-to-work-on-branches-in-git-1aa68c9565c)
