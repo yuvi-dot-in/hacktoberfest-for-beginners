@@ -6,7 +6,7 @@ A repo for the beginners to get started with the open source contribution and pa
 [Click to Jump directly on how to contribute to this project](#How-to-contribute-to-this-project)
 
 
-# What is hactoberfest
+# What is hacktoberfest
 
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
@@ -113,3 +113,5 @@ In the following post I have given instruction on how to contribute to udacity c
   * [This is how to create a “Pull request (PR)” to contribute to the collaborative project](https://medium.com/@shubham.prakash/this-is-how-to-create-pull-request-pr-to-contribute-to-the-collaborative-project-f43b1a6fe614)
 
   * [Here is how to work on branches in git](https://medium.com/@shubham.prakash/here-is-how-to-work-on-branches-in-git-1aa68c9565c)
+  
+  * [This is official guide from Giuthub itself for making a pull request](https://help.github.com/en/articles/creating-a-pull-request)
