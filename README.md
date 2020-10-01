@@ -2,7 +2,7 @@
 
 A repo for the beginners to get started with open source contribution and participate in Hacktoberfest.
 
-![1_2UpaL6XstQWiJpW27T4NBQ](https://user-images.githubusercontent.com/28767301/66743986-db1c1080-ee98-11e9-92aa-88787c822bdb.png)
+![DeepinScreenshot_select-area_20201001203519](https://user-images.githubusercontent.com/28767301/94827087-a7c5ef00-0425-11eb-9428-76e60e5d18e0.png)
 
 [Click to Jump directly on how to contribute to this project](#How-to-contribute-to-this-project)
 
