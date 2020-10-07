@@ -1,6 +1,10 @@
 # hacktoberfest-for-beginners
 
-A repo for the beginners to get started with open source contribution and participate in Hacktoberfest.
+This is a project for the beginners to get started with open source contribution and participate in Hacktoberfest. I have also written some blogs to help people learn how to contribute to open source. Please find the links at the bottom of this page.
+
+**Note:** This repository is only for beginners who don't know much about git and how to use GitHub platform. The only aim for creating this project was to help such people so that not only they learn how to use git but also earn cool prizes during this contest.
+
+**In any way, I do not promote spamming any public repositories just to earn a T-Shirt during this hacktoberfest contest. I request all of you who have a basic understanding of Git and GitHub platform to do some useful contribute in some open source projects.**
 
 ![DeepinScreenshot_select-area_20201001203519](https://user-images.githubusercontent.com/28767301/94827087-a7c5ef00-0425-11eb-9428-76e60e5d18e0.png)
 
@@ -85,7 +89,7 @@ Here is what you'll be adding:
 
 - Just create an markdown file with your name and write about yourself. Example. JohnDoe.md
 
-- Put the file in the root directory (where README.md is present)
+- Put the file in the `Awesome Contributors` directory
 
 ## Steps involved in contribution process
 
@@ -93,11 +97,23 @@ Here is what you'll be adding:
 
 2. Either make changes online or download on your computer -> make change -> commit -> Push
 
-3. You'll se your version of this repository has some commits which are ahead of origional repository
+3. You'll see your version of this repository has some commits which are ahead of origional repository
 
 4. You'll see an option to make a pull request. Click it-> add some description -> send PR
 
 5. Repeat this prosess 4-5 times by adding more changes and more informations in your file. Easy!!
+
+## Rules
+
+1. The PRs with just couple of words of text changes will not be accepted and merged
+
+2. The PRs with only Typo fixes will not be accepted
+
+3. The PRs with just one or two lines of additions will not be accepted
+
+4. Please mase sure you have a good amout of information in your [name].md file.
+
+5. PRs in which user add images/videos will be highlighted and will be labelled with `hacktoberfest-accepted` and `good-contribution`.
 
 ## Need Help?
 
